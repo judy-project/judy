@@ -1,5 +1,3 @@
 # judy
-Wansik Kim
-=======
 hyunju
 
